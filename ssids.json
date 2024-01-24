@@ -1,22 +1,152 @@
 [
-    "Ziggo6df92fsa",
-    "KPN023a892d34",
-    "Ziggo7gh82hjk",
-    "KPNf4567890b",
-    "Ziggo9kl03mnx",
-    "KPNd5e6781u2",
-    "Ziggo2fg56hju",
-    "KPN0234jklm6",
-    "Ziggo3hj789kl",
-    "KPNn7890pqr2",
-    "Ziggo8jk45rty",
-    "KPNbvcxz2345",
-    "Ziggo5ty67uio",
-    "KPN09876ghjk",
-    "Ziggo4er56tyu",
-    "KPNmnbvcx56",
-    "Ziggo6yh78uji",
-    "KPNlkjhgf12",
-    "Ziggo2wsx34er",
-    "KPNqazwsx34"
+    {
+        "SSID": "KPNn7890pqr2",
+        "Date": "15-01-2024",
+        "Description": "Found in a leak where home network security was compromised during a large-scale attack on KPN's network infrastructure."
+    },
+    {
+        "SSID": "Ziggo8jk45rty",
+        "Date": "20-02-2024",
+        "Description": "Discovered in a data breach targeting Ziggo's sports channel subscribers, exposing personal information of sports enthusiasts."
+    },
+    {
+        "SSID": "KPN_DeWijk2024",
+        "Date": "05-03-2024",
+        "Description": "Part of a series of attacks on regional networks, granting hackers access to smart devices in a residential area."
+    },
+    {
+        "SSID": "Ziggo6df92fsa",
+        "Date": "10-04-2024",
+        "Description": "Appeared in a leak where child-friendly content and family accounts were hacked, leading to concerns about online safety for children."
+    },
+    {
+        "SSID": "Ziggo6yh78uji",
+        "Date": "18-05-2024",
+        "Description": "This SSID was found in a hack targeting remote workers, risking sensitive corporate information."
+    },
+    {
+        "SSID": "JeBuurmanIsLief",
+        "Date": "22-06-2024",
+        "Description": "Concerning an incident where travel-related accounts and data of Ziggo users were compromised."
+    },
+    {
+        "SSID": "SmartCity2024",
+        "Date": "15-07-2024",
+        "Description": "Found after a cyberattack on city-wide network systems, leading to temporary disruption of urban services."
+    },
+    {
+        "SSID": "TM323d23xMM",
+        "Date": "30-08-2024",
+        "Description": "Part of a leak where user data of Ziggo's movie streaming service was exposed."
+    },
+    {
+        "SSID": "GreenTechNet",
+        "Date": "09-09-2024",
+        "Description": "This SSID came to light during an attack on sustainable technologies and smart energy networks."
+    },
+    {
+        "SSID": "NederlofNV_5g",
+        "Date": "20-10-2024",
+        "Description": "Found in a data breach targeting Ziggo's music streaming service, raising concerns about privacy for music lovers."
+    },
+    {
+        "SSID": "KPN0234jklm6",
+        "Date": "05-11-2024",
+        "Description": "Part of a series of attacks on corporate networks, with potential implications for trade secrets and customer data."
+    },
+    {
+        "SSID": "Ziggo_GameStreamPro",
+        "Date": "10-12-2024",
+        "Description": "Compromised during an attack on Ziggo's gaming platform, raising concerns about the security of online gaming accounts."
+    },
+    {
+        "SSID": "Ziggolxz38mgw",
+        "Date": "15-01-2024",
+        "Description": "Found in a leak where home network security was compromised during a large-scale attack on KPN's network infrastructure."
+    },
+    {
+        "SSID": "SmartToilet8000",
+        "Date": "20-02-2024",
+        "Description": "Discovered in a data breach targeting Ziggo's sports channel subscribers, exposing personal information of sports enthusiasts."
+    },
+    {
+        "SSID": "Area 51 Test Site",
+        "Date": "05-03-2024",
+        "Description": "Part of a series of attacks on regional networks, granting hackers access to smart devices in a residential area."
+    },
+    {
+        "SSID": "KPNdol50pg0",
+        "Date": "10-04-2024",
+        "Description": "Appeared in a leak where child-friendly content and family accounts were hacked, leading to concerns about online safety for children."
+    },
+    {
+        "SSID": "TM99qcn8qi",
+        "Date": "18-05-2024",
+        "Description": "This SSID was found in a hack targeting remote workers, risking sensitive corporate information."
+    },
+    {
+        "SSID": "Ziggo_GoTravel_Variant18",
+        "Date": "22-06-2024",
+        "Description": "Concerning an incident where travel-related accounts and data of Ziggo users were compromised."
+    },
+    {
+        "SSID": "KPN_SmartCity2024_Variant19",
+        "Date": "15-07-2024",
+        "Description": "Found after a cyberattack on city-wide network systems, leading to temporary disruption of urban services."
+    },
+    {
+        "SSID": "ZiggoALv2320",
+        "Date": "30-08-2024",
+        "Description": "Part of a leak where user data of Ziggo's movie streaming service was exposed."
+    },
+    {
+        "SSID": "JeKomtBijMijNietBinnen",
+        "Date": "09-09-2024",
+        "Description": "This SSID came to light during an attack on sustainable technologies and smart energy networks."
+    },
+    {
+        "SSID": "MusicIsMyLife22",
+        "Date": "20-10-2024",
+        "Description": "Found in a data breach targeting Ziggo's music streaming service, raising concerns about privacy for music lovers."
+    },
+    {
+        "SSID": "ZiggoWifi1234",
+        "Date": "05-11-2024",
+        "Description": "Part of a series of attacks on corporate networks, with potential implications for trade secrets and customer data."
+    },
+    {
+        "SSID": "GameStreamPro",
+        "Date": "10-12-2024",
+        "Description": "Compromised during an attack on Ziggo's gaming platform, raising concerns about the security of online gaming accounts."
+    },
+    {
+        "SSID": "TZ234MF02s",
+        "Date": "15-01-2024",
+        "Description": "Found in a leak where home network security was compromised during a large-scale attack on KPN's network infrastructure."
+    },
+    {
+        "SSID": "KPN_5Ghz9012",
+        "Date": "20-02-2024",
+        "Description": "Discovered in a data breach targeting Ziggo's sports channel subscribers, exposing personal information of sports enthusiasts."
+    },
+    {
+        "SSID": "OxxioHome2345",
+        "Date": "05-03-2024",
+        "Description": "Part of a series of attacks on regional networks, granting hackers access to smart devices in a residential area."
+    },
+    {
+        "SSID": "KPNConnect7890",
+        "Date": "10-04-2024",
+        "Description": "Appeared in a leak where child-friendly content and family accounts were hacked, leading to concerns about online safety for children."
+    },
+    {
+        "SSID": "KPNHome1234",
+        "Date": "18-05-2024",
+        "Description": "This SSID was found in a hack targeting remote workers, risking sensitive corporate information."
+    },
+    {
+        "SSID": "ZiggoFree6789",
+        "Date": "22-06-2024",
+        "Description": "Concerning an incident where travel-related accounts and data of Ziggo users were compromised."
+    }
 ]
