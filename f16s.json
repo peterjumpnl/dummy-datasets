@@ -1,122 +1,121 @@
 [
-  {
-    "ID": "Alpha001",
-    "Eenheid": "31e Jachtvliegtuig Groep",
-    "Bouwjaar": 1984,
-    "Type": "F-16A",
-    "Thuisbasis": "Vliegbasis Leeuwarden"
-  },
-  {
-    "ID": "Bravo002",
-    "Eenheid": "52e Tactische Groep",
-    "Bouwjaar": 1986,
-    "Type": "F-16B",
-    "Thuisbasis": "Vliegbasis Volkel"
-  },
-  {
-    "ID": "Charlie003",
-    "Eenheid": "111e Jachtbommenwerper Squadron",
-    "Bouwjaar": 1987,
-    "Type": "F-16C",
-    "Thuisbasis": "Vliegbasis Kleine Brogel"
-  },
-  {
-    "ID": "Delta004",
-    "Eenheid": "305e Jachtvliegtuig Groep",
-    "Bouwjaar": 1985,
-    "Type": "F-16A",
-    "Thuisbasis": "Vliegbasis Gilze-Rijen"
-  },
-  {
-    "ID": "Echo005",
-    "Eenheid": "10e Tactische Wing",
-    "Bouwjaar": 1989,
-    "Type": "F-16B",
-    "Thuisbasis": "Vliegbasis Woensdrecht"
-  },
-  {
-    "ID": "Foxtrot006",
-    "Eenheid": "74e Jachtvliegtuig Squadron",
-    "Bouwjaar": 1990,
-    "Type": "F-16C",
-    "Thuisbasis": "Vliegbasis Soesterberg"
-  },
-  {
-    "ID": "Golf007",
-    "Eenheid": "2e Jachtvliegtuig Groep",
-    "Bouwjaar": 1991,
-    "Type": "F-16A",
-    "Thuisbasis": "Vliegbasis Eindhoven"
-  },
-  {
-    "ID": "Hotel008",
-    "Eenheid": "21e Tactische Wing",
-    "Bouwjaar": 1992,
-    "Type": "F-16B",
-    "Thuisbasis": "Vliegbasis De Peel"
-  },
-  {
-    "ID": "India009",
-    "Eenheid": "49e Jachtbommenwerper Squadron",
-    "Bouwjaar": 1993,
-    "Type": "F-16C",
-    "Thuisbasis": "Vliegbasis Twente"
-  },
-  {
-    "ID": "Juliet010",
-    "Eenheid": "303e Jachtvliegtuig Groep",
-    "Bouwjaar": 1994,
-    "Type": "F-16A",
-    "Thuisbasis": "Vliegbasis Valkenburg"
-  },
-  {
-    "ID": "Kilo011",
-    "Eenheid": "9e Tactische Wing",
-    "Bouwjaar": 1988,
-    "Type": "F-16B",
-    "Thuisbasis": "Vliegbasis Leeuwarden"
-  },
-  {
-    "ID": "Lima012",
-    "Eenheid": "32e Jachtbommenwerper Squadron",
-    "Bouwjaar": 1989,
-    "Type": "F-16C",
-    "Thuisbasis": "Vliegbasis Volkel"
-  },
-  {
-    "ID": "Mike013",
-    "Eenheid": "301e Jachtvliegtuig Groep",
-    "Bouwjaar": 1990,
-    "Type": "F-16A",
-    "Thuisbasis": "Vliegbasis Gilze-Rijen"
-  },
-  {
-    "ID": "November014",
-    "Eenheid": "11e Tactische Wing",
-    "Bouwjaar": 1991,
-    "Type": "F-16B",
-    "Thuisbasis": "Vliegbasis Woensdrecht"
-  },
-  {
-    "ID": "Oscar015",
-    "Eenheid": "75e Jachtvliegtuig Squadron",
-    "Bouwjaar": 1992,
-    "Type": "F-16C",
-    "Thuisbasis": "Vliegbasis Soesterberg"
-  },
-  {
-    "ID": "Papa016",
-    "Eenheid": "3e Jachtvliegtuig Groep",
-    "Bouwjaar": 1993,
-    "Type": "F-16A",
-    "Thuisbasis": "Vliegbasis Eindhoven"
-  },
-  {
-    "ID": "Quebec017",
-    "Eenheid": "22e Tactische Wing",
-    "Bouwjaar": 1994,
-    "Type": "F-16B",
-    "Thuisbasis": "Vliegbasis De Peel"
-  }
-  // ... De lijst kan worden uitgebreid tot 20-30 items ...
+    {
+        "ID": "Alpha001",
+        "Eenheid": "31e Jachtvliegtuig Groep",
+        "Bouwjaar": 1984,
+        "Type": "F-16A",
+        "Thuisbasis": "Vliegbasis Leeuwarden"
+    },
+    {
+        "ID": "Bravo002",
+        "Eenheid": "52e Tactische Groep",
+        "Bouwjaar": 1986,
+        "Type": "F-16B",
+        "Thuisbasis": "Vliegbasis Woensdrecht"
+    },
+    {
+        "ID": "Charlie003",
+        "Eenheid": "111e Jachtbommenwerper Squadron",
+        "Bouwjaar": 1987,
+        "Type": "F-16C",
+        "Thuisbasis": "Vliegbasis Leeuwarden"
+    },
+    {
+        "ID": "Delta004",
+        "Eenheid": "305e Jachtvliegtuig Groep",
+        "Bouwjaar": 1985,
+        "Type": "F-16A",
+        "Thuisbasis": "Vliegbasis Leeuwarden"
+    },
+    {
+        "ID": "Echo005",
+        "Eenheid": "10e Tactische Wing",
+        "Bouwjaar": 1989,
+        "Type": "F-16B",
+        "Thuisbasis": "Vliegbasis Woensdrecht"
+    },
+    {
+        "ID": "Foxtrot006",
+        "Eenheid": "74e Jachtvliegtuig Squadron",
+        "Bouwjaar": 1990,
+        "Type": "F-16C",
+        "Thuisbasis": "Vliegbasis Leeuwarden"
+    },
+    {
+        "ID": "Golf007",
+        "Eenheid": "2e Jachtvliegtuig Groep",
+        "Bouwjaar": 1991,
+        "Type": "F-16A",
+        "Thuisbasis": "Vliegbasis Leeuwarden"
+    },
+    {
+        "ID": "Hotel008",
+        "Eenheid": "21e Tactische Wing",
+        "Bouwjaar": 1992,
+        "Type": "F-16B",
+        "Thuisbasis": "Vliegbasis Leeuwarden"
+    },
+    {
+        "ID": "India009",
+        "Eenheid": "49e Jachtbommenwerper Squadron",
+        "Bouwjaar": 1993,
+        "Type": "F-16C",
+        "Thuisbasis": "Vliegbasis Woensdrecht"
+    },
+    {
+        "ID": "Juliet010",
+        "Eenheid": "303e Jachtvliegtuig Groep",
+        "Bouwjaar": 1994,
+        "Type": "F-16A",
+        "Thuisbasis": "Vliegbasis Woensdrecht"
+    },
+    {
+        "ID": "Kilo011",
+        "Eenheid": "9e Tactische Wing",
+        "Bouwjaar": 1988,
+        "Type": "F-16B",
+        "Thuisbasis": "Vliegbasis Leeuwarden"
+    },
+    {
+        "ID": "Lima012",
+        "Eenheid": "32e Jachtbommenwerper Squadron",
+        "Bouwjaar": 1989,
+        "Type": "F-16C",
+        "Thuisbasis": "Vliegbasis Woensdrecht"
+    },
+    {
+        "ID": "Mike013",
+        "Eenheid": "301e Jachtvliegtuig Groep",
+        "Bouwjaar": 1990,
+        "Type": "F-16A",
+        "Thuisbasis": "Vliegbasis Woensdrecht"
+    },
+    {
+        "ID": "November014",
+        "Eenheid": "11e Tactische Wing",
+        "Bouwjaar": 1991,
+        "Type": "F-16B",
+        "Thuisbasis": "Vliegbasis Woensdrecht"
+    },
+    {
+        "ID": "Oscar015",
+        "Eenheid": "75e Jachtvliegtuig Squadron",
+        "Bouwjaar": 1992,
+        "Type": "F-16C",
+        "Thuisbasis": "Vliegbasis Leeuwarden"
+    },
+    {
+        "ID": "Papa016",
+        "Eenheid": "3e Jachtvliegtuig Groep",
+        "Bouwjaar": 1993,
+        "Type": "F-16A",
+        "Thuisbasis": "Vliegbasis Leeuwarden"
+    },
+    {
+        "ID": "Quebec017",
+        "Eenheid": "22e Tactische Wing",
+        "Bouwjaar": 1994,
+        "Type": "F-16B",
+        "Thuisbasis": "Vliegbasis Woensdrecht"
+    }
 ]
