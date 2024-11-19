@@ -1,0 +1,249 @@
+code,name,continent,Population
+AD,Andorra,EU,71201
+AE,United Arab Emirates,AS,2602713
+AF,Afghanistan,AS,31056997
+AG,Antigua And Barbuda,,0
+AI,Anguilla,,13477
+AL,Albania,EU,3581655
+AM,Armenia,AS,2976372
+AO,Angola,AF,12127071
+AQ,Antarctica,AN,0
+AR,Argentina,SA,39921833
+AS,American Samoa,OC,57794
+AT,Austria,EU,8192880
+AU,Australia,OC,20264082
+AW,Aruba,,71891
+AZ,Azerbaijan,AS,7961619
+BA,Bosnia And Herzegovina,EU,0
+BB,Barbados,,279912
+BD,Bangladesh,AS,147365352
+BE,Belgium,EU,10379067
+BF,Burkina Faso,AF,13902972
+BG,Bulgaria,EU,7385367
+BH,Bahrain,AS,698585
+BI,Burundi,AF,8090068
+BJ,Benin,AF,7862944
+BL,Saint Barthélemy,,0
+BM,Bermuda,,65773
+BN,Brunei,AS,379444
+BO,Bolivia,SA,8989046
+BQ,Caribbean Netherlands,,0
+BR,Brazil,SA,188078227
+BS,Bahamas,,0
+BT,Bhutan,AS,2279723
+BW,Botswana,AF,1639833
+BY,Belarus,EU,10293011
+BZ,Belize,,287730
+CA,Canada,,33098932
+CC,Cocos (Keeling) Islands,AS,0
+CD,Democratic Republic Of The Congo,AF,0
+CF,Central African Republic,AF,0
+CG,Republic Of The Congo,AF,0
+CH,Switzerland,EU,7523934
+CI,Côte D'Ivoire,AF,0
+CK,Cook Islands,OC,21388
+CL,Chile,SA,16134219
+CM,Cameroon,AF,17340702
+CN,China,AS,1313973713
+CO,Colombia,SA,43593035
+CR,Costa Rica,,4075261
+CU,Cuba,,11382820
+CV,Cape Verde,AF,420979
+CW,Curaçao,,0
+CX,Christmas Island,AS,0
+CY,Cyprus,AS,784301
+CZ,Czech Republic,EU,10235455
+DE,Germany,EU,82422299
+DJ,Djibouti,AF,486530
+DK,Denmark,EU,5450661
+DM,Dominica,,68910
+DO,Dominican Republic,,9183984
+DZ,Algeria,AF,32930091
+EC,Ecuador,SA,13547510
+EE,Estonia,EU,1324333
+EG,Egypt,AF,78887007
+EH,Western Sahara,AF,273008
+ER,Eritrea,AF,4786994
+ES,Spain,EU,40397842
+ET,Ethiopia,AF,74777981
+FI,Finland,EU,5231372
+FJ,Fiji,OC,905949
+FK,Falkland Islands,SA,0
+FM,Micronesia,OC,0
+FO,Faroe Islands,EU,47246
+FR,France,EU,60876136
+GA,Gabon,AF,1424906
+GB,United Kingdom,EU,60609153
+GD,Grenada,,89703
+GE,Georgia,AS,4661473
+GF,French Guiana,SA,199509
+GG,Guernsey,EU,65409
+GH,Ghana,AF,22409572
+GI,Gibraltar,EU,27928
+GL,Greenland,,56361
+GM,Gambia,AF,0
+GN,Guinea,AF,9690222
+GP,Guadeloupe,,452776
+GQ,Equatorial Guinea,AF,540109
+GR,Greece,EU,10688058
+GS,South Georgia And The South Sandwich Islands,AN,0
+GT,Guatemala,,12293545
+GU,Guam,OC,171019
+GW,Guinea-Bissau,AF,1442029
+GY,Guyana,SA,767245
+HK,Hong Kong,AS,6940432
+HM,Heard And Mcdonald Islands,OC,0
+HN,Honduras,,7326496
+HR,Croatia,EU,4494749
+HT,Haiti,,8308504
+HU,Hungary,EU,9981334
+ID,Indonesia,AS,245452739
+IE,Ireland,EU,4062235
+IL,Israel,AS,6352117
+IM,Isle Of Man,EU,75441
+IN,India,AS,1095351995
+IO,British Indian Ocean Territory,AS,0
+IQ,Iraq,AS,26783383
+IR,Iran,AS,68688433
+IS,Iceland,EU,299388
+IT,Italy,EU,58133509
+JE,Jersey,EU,91084
+JM,Jamaica,,2758124
+JO,Jordan,AS,5906760
+JP,Japan,AS,127463611
+KE,Kenya,AF,34707817
+KG,Kyrgyzstan,AS,5213898
+KH,Cambodia,AS,13881427
+KI,Kiribati,OC,105432
+KM,Comoros,AF,690948
+KN,Saint Kitts And Nevis,,0
+KP,North Korea,AS,0
+KR,South Korea,AS,0
+KW,Kuwait,AS,2418393
+KY,Cayman Islands,,45436
+KZ,Kazakhstan,AS,15233244
+LA,Laos,AS,6368481
+LB,Lebanon,AS,3874050
+LC,Saint Lucia,,168458
+LI,Liechtenstein,EU,33987
+LK,Sri Lanka,AS,20222240
+LR,Liberia,AF,3042004
+LS,Lesotho,AF,2022331
+LT,Lithuania,EU,3585906
+LU,Luxembourg,EU,474413
+LV,Latvia,EU,2274735
+LY,Libya,AF,5900754
+MA,Morocco,AF,33241259
+MC,Monaco,EU,32543
+MD,Moldova,EU,4466706
+ME,Montenegro,EU,0
+MF,Saint Martin,,0
+MG,Madagascar,AF,18595469
+MH,Marshall Islands,OC,60422
+MK,North Macedonia,EU,0
+ML,Mali,AF,11716829
+MM,Myanmar,AS,0
+MN,Mongolia,AS,2832224
+MO,Macau,AS,453125
+MP,Northern Mariana Islands,OC,0
+MQ,Martinique,,436131
+MR,Mauritania,AF,3177388
+MS,Montserrat,,9439
+MT,Malta,EU,400214
+MU,Mauritius,AF,1240827
+MV,Maldives,AS,359008
+MW,Malawi,AF,13013926
+MX,Mexico,,107449525
+MY,Malaysia,AS,24385858
+MZ,Mozambique,AF,19686505
+,Namibia,AF,2044147
+NC,New Caledonia,OC,219246
+NE,Niger,AF,12525094
+NF,Norfolk Island,OC,0
+NG,Nigeria,AF,131859731
+NI,Nicaragua,,5570129
+NL,Netherlands,EU,16491461
+NO,Norway,EU,4610820
+NP,Nepal,AS,28287147
+NR,Nauru,OC,13287
+NU,Niue,OC,0
+NZ,New Zealand,OC,4076140
+OM,Oman,AS,3102229
+PA,Panama,,3191319
+PE,Peru,SA,28302603
+PF,French Polynesia,OC,274578
+PG,Papua New Guinea,OC,5670544
+PH,Philippines,AS,89468677
+PK,Pakistan,AS,165803560
+PL,Poland,EU,38536869
+PM,Saint Pierre And Miquelon,,0
+PN,Pitcairn,OC,0
+PR,Puerto Rico,,3927188
+PS,Palestinian Territory,AS,0
+PT,Portugal,EU,10605870
+PW,Palau,OC,20579
+PY,Paraguay,SA,6506464
+QA,Qatar,AS,885359
+RE,Réunion,AF,0
+RO,Romania,EU,22303552
+RS,Serbia,EU,9396411
+RU,Russia,EU,142893540
+RW,Rwanda,AF,8648248
+SA,Saudi Arabia,AS,27019731
+SB,Solomon Islands,OC,552438
+SC,Seychelles,AF,81541
+SD,Sudan,AF,41236378
+SE,Sweden,EU,9016596
+SG,Singapore,AS,4492150
+SH,"Saint Helena, Ascension And Tristan Da Cunha",AF,0
+SI,Slovenia,EU,2010347
+SK,Slovakia,EU,5439448
+SL,Sierra Leone,AF,6005250
+SM,San Marino,EU,29251
+SN,Senegal,AF,11987121
+SO,Somalia,AF,8863338
+SR,Suriname,SA,439117
+SS,South Sudan,AF,0
+ST,São Tomé And Principe,AF,0
+SV,El Salvador,,6822378
+SX,Sint Maarten,,0
+SY,Syria,AS,18881361
+SZ,Eswatini,AF,0
+TC,Turks And Caicos Islands,,0
+TD,Chad,AF,9944201
+TF,French Southern And Antarctic Lands,AF,0
+TG,Togo,AF,5548702
+TH,Thailand,AS,64631595
+TJ,Tajikistan,AS,7320815
+TK,Tokelau,OC,0
+TL,Timor-Leste,AS,0
+TM,Turkmenistan,AS,5042920
+TN,Tunisia,AF,10175014
+TO,Tonga,OC,114689
+TR,Turkey,AS,70413958
+TT,Trinidad And Tobago,,0
+TV,Tuvalu,OC,11810
+TW,Taiwan,AS,23036087
+TZ,Tanzania,AF,37445392
+UA,Ukraine,EU,46710816
+UG,Uganda,AF,28195754
+UM,United States Minor Outlying Islands,OC,0
+US,United States,,298444215
+UY,Uruguay,SA,3431932
+UZ,Uzbekistan,AS,27307134
+VA,Vatican City,EU,0
+VC,Saint Vincent And The Grenadines,,117848
+VE,Venezuela,SA,25730435
+VG,British Virgin Islands,,0
+VI,U.S. Virgin Islands,,0
+VN,Vietnam,AS,84402966
+VU,Vanuatu,OC,208869
+WF,Wallis And Futuna,OC,16025
+WS,Samoa,OC,176908
+XK,Kosovo,EU,0
+YE,Yemen,AS,21456188
+YT,Mayotte,AF,201234
+ZA,South Africa,AF,44187637
+ZM,Zambia,AF,11502010
+ZW,Zimbabwe,AF,12236805
+ZZ,Unknown Or Unassigned Country,AF,0
